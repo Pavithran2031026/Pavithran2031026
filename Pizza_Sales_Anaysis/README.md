@@ -61,9 +61,9 @@ Power BI Dashboard Features:
 
 ## 6. Dashboards  
 
-![Pizza Sales Analysis Home Screen]https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Home_Screen_Snap.PNG
+![Pizza Sales Analysis Home Screen](https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Home_Screen_Snap.PNG)
 
-https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Analysis-Screen_Snap.PNG  
+![Pizza Sales Analysis Analysis Screen](https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Analysis-Screen_Snap.PNG )  
 
 ## 7. Insights & Business Recommendations 💡📈🚀  
   •	Improve Sales of Low-Performing Pizzas: Offer discounts or promotional campaigns for underperforming pizzas.  
