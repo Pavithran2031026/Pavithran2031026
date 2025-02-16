@@ -2,7 +2,10 @@
 
 I developed a comprehensive Power BI project that transforms raw sales data into an interactive Pizza Sales Dashboard. The project involved data extraction, cleaning, transformation, and visualization to analyze key sales trends, best/worst-selling pizzas, order behavior, and category performance. The dashboard helps businesses optimize their menu, pricing, and marketing strategies. 📊🔥🍕  
 
-## 1. Overview ✨🔍📢  
+## 1. Dataset used:  
+<a href="">Dataset</a>  
+
+## 2. Overview ✨🔍📢  
 
 This project presents a Pizza Sales Analysis Dashboard that highlights business performance metrics such as total revenue, orders, pizza sales quantity, and average order value. The dashboard helps stakeholders identify top-selling pizzas, worst performers, and seasonal trends to make informed decisions.
 Key Metrics:
@@ -26,7 +29,7 @@ o	Supreme: 25%
 o	Chicken: 20%  
 o	Veggie: 25%  
 
-## 2. Identified Problems & Solutions 🚨⚡🔎  
+## 3. Identified Problems & Solutions 🚨⚡🔎  
 • Low Profit Margin 📉 → Adjust prices and reduce costs. 💰	  
 • Uneven Sales 📊 → Promote slow-selling pizzas with discounts. 🎯	  
 • Low-Selling Pizzas 🍕 → Improve recipes or remove them. ❌  	
@@ -34,7 +37,7 @@ o	Veggie: 25%
 • Weekend Delays ⏳→ Add staff and speed up service. 🚀	  
 • Classic Pizzas Sell More 🍕 → Advertise and promote new flavors. 📢	  
 
-## 3. Data Processing Workflow 🔄📑🛠️  
+## 4. Data Processing Workflow 🔄📑🛠️  
 
 ### Step 1: Data Collection 🗂️📥  
   •	Extracted raw sales data from POS systems, customer orders, and online transactions.  
@@ -48,7 +51,7 @@ Key Cleaning Steps:
   •	Merged multiple datasets (Orders, Customers, Pizzas)  
   •	Fixed inconsistent naming conventions  
   
-## 4. Data Visualization & Dashboard Creation 📊📈🖥️  
+## 5. Data Visualization & Dashboard Creation 📊📈🖥️  
 Power BI Dashboard Features:  
   •	Interactive filters for selecting pizza categories, date ranges, and order trends.  
   •	Bar charts for top and bottom-selling pizzas.  
@@ -56,7 +59,7 @@ Power BI Dashboard Features:
   •	Pie charts for category-wise and size-wise sales distribution.  
   •	KPI cards for revenue, total orders, and average order value.  
 
-## 5. Insights & Business Recommendations 💡📈🚀  
+## 6. Insights & Business Recommendations 💡📈🚀  
   •	Improve Sales of Low-Performing Pizzas: Offer discounts or promotional campaigns for underperforming pizzas.  
   •	Optimize Inventory for Peak Hours: Stock up popular pizzas (e.g., Thai Chicken) for weekends.  
   •	Seasonal Promotions: Introduce special pizza flavors for high-sales months (July & January).  
