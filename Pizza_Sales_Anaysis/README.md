@@ -59,17 +59,19 @@ Power BI Dashboard Features:
   •	Pie charts for category-wise and size-wise sales distribution.  
   •	KPI cards for revenue, total orders, and average order value.  
 
-## Dashboards  
+## 6. Dashboards  
 
+https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Home_Screen_Snap.PNG
 
+https://github.com/Pavithran2031026/Pavithran2031026/blob/main/Pizza_Sales_Anaysis/Pizza_Sales_Analysis-Screen_Snap.PNG  
 
-## 6. Insights & Business Recommendations 💡📈🚀  
+## 7. Insights & Business Recommendations 💡📈🚀  
   •	Improve Sales of Low-Performing Pizzas: Offer discounts or promotional campaigns for underperforming pizzas.  
   •	Optimize Inventory for Peak Hours: Stock up popular pizzas (e.g., Thai Chicken) for weekends.  
   •	Seasonal Promotions: Introduce special pizza flavors for high-sales months (July & January).  
   •	Improve Order Processing Efficiency: Optimize kitchen workflow to handle weekend rush efficiently.  
 
-## 6. Conclusion 🎯📢🚀  
+## 8. Conclusion 🎯📢🚀  
 The Pizza Sales Analysis Dashboard provides valuable insights into sales performance, customer preferences, and revenue trends. It helps decision-makers optimize menu offerings, manage inventory, and improve customer satisfaction.  
 To further enhance profitability and efficiency, businesses should:    
   ✅ Run promotional campaigns for low-selling pizzas.  
