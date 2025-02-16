@@ -59,6 +59,10 @@ Power BI Dashboard Features:
   •	Pie charts for category-wise and size-wise sales distribution.  
   •	KPI cards for revenue, total orders, and average order value.  
 
+## Dashboards  
+
+
+
 ## 6. Insights & Business Recommendations 💡📈🚀  
   •	Improve Sales of Low-Performing Pizzas: Offer discounts or promotional campaigns for underperforming pizzas.  
   •	Optimize Inventory for Peak Hours: Stock up popular pizzas (e.g., Thai Chicken) for weekends.  
